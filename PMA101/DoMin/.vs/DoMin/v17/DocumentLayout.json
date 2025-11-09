@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTCD_FPT\\PMA101\\DoMin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|d:\\ptcd_fpt\\pma101\\domin\\domin\\frmeasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|solutionrelative:domin\\frmeasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|D:\\PTCD_FPT\\PMA101\\DoMin\\domin\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|solutionrelative:domin\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|D:\\PTCD_FPT\\PMA101\\DoMin\\domin\\frmeasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|solutionrelative:domin\\frmeasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|D:\\PTCD_FPT\\PMA101\\DoMin\\domin\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|solutionrelative:domin\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|D:\\PTCD_FPT\\PMA101\\DoMin\\domin\\frmhowtoplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|solutionrelative:domin\\frmhowtoplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|D:\\PTCD_FPT\\PMA101\\DoMin\\domin\\frmhowtoplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|solutionrelative:domin\\frmhowtoplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|D:\\PTCD_FPT\\PMA101\\DoMin\\domin\\frmhard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|solutionrelative:domin\\frmhard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|D:\\PTCD_FPT\\PMA101\\DoMin\\domin\\frmhard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|solutionrelative:domin\\frmhard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|D:\\PTCD_FPT\\PMA101\\DoMin\\domin\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|solutionrelative:domin\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|D:\\PTCD_FPT\\PMA101\\DoMin\\domin\\frmmedium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|solutionrelative:domin\\frmmedium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|D:\\PTCD_FPT\\PMA101\\DoMin\\domin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|solutionrelative:domin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|D:\\PTCD_FPT\\PMA101\\DoMin\\domin\\frmmedium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A954F305-CA88-42F0-BB4B-2F1524908EA5}|DoMin\\DoMin.csproj|solutionrelative:domin\\frmmedium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\app.manifest",
+              "RelativeDocumentMoniker": "DoMin\\app.manifest",
+              "ToolTip": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\app.manifest",
+              "RelativeToolTip": "DoMin\\app.manifest",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-11-30T05:23:31.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\Program.cs",
+              "RelativeDocumentMoniker": "DoMin\\Program.cs",
+              "ToolTip": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\Program.cs",
+              "RelativeToolTip": "DoMin\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:14:13.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmHowToPlay.cs",
+              "DocumentMoniker": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmHowToPlay.cs",
+              "RelativeDocumentMoniker": "DoMin\\frmHowToPlay.cs",
+              "ToolTip": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmHowToPlay.cs",
+              "RelativeToolTip": "DoMin\\frmHowToPlay.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA/wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:31:59.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMedium.cs",
+              "DocumentMoniker": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmMedium.cs",
+              "RelativeDocumentMoniker": "DoMin\\frmMedium.cs",
+              "ToolTip": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmMedium.cs",
+              "RelativeToolTip": "DoMin\\frmMedium.cs",
+              "ViewState": "AQIAAJMBAAAAAAAAAAAAwKoBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:05:00.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmHard.cs",
+              "DocumentMoniker": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmHard.cs",
+              "RelativeDocumentMoniker": "DoMin\\frmHard.cs",
+              "ToolTip": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmHard.cs",
+              "RelativeToolTip": "DoMin\\frmHard.cs",
+              "ViewState": "AQIAAJoBAAAAAAAAAAAUwKoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:13:09.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmHard.cs [Design]",
+              "DocumentMoniker": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmHard.cs",
+              "RelativeDocumentMoniker": "DoMin\\frmHard.cs",
+              "ToolTip": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmHard.cs [Design]",
+              "RelativeToolTip": "DoMin\\frmHard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:04:34.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMedium.cs [Design]",
+              "DocumentMoniker": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmMedium.cs",
+              "RelativeDocumentMoniker": "DoMin\\frmMedium.cs",
+              "ToolTip": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmMedium.cs [Design]",
+              "RelativeToolTip": "DoMin\\frmMedium.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:03:54.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEasy.cs [Design]",
+              "DocumentMoniker": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmEasy.cs",
+              "RelativeDocumentMoniker": "DoMin\\frmEasy.cs",
+              "ToolTip": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmEasy.cs [Design]",
+              "RelativeToolTip": "DoMin\\frmEasy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:01:38.879Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmHowToPlay.cs [Design]",
+              "DocumentMoniker": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmHowToPlay.cs",
+              "RelativeDocumentMoniker": "DoMin\\frmHowToPlay.cs",
+              "ToolTip": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmHowToPlay.cs [Design]",
+              "RelativeToolTip": "DoMin\\frmHowToPlay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:24:35.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmMain.cs",
+              "RelativeDocumentMoniker": "DoMin\\frmMain.cs",
+              "ToolTip": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmMain.cs [Design]*",
+              "RelativeToolTip": "DoMin\\frmMain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:56:33.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEasy.cs",
+              "DocumentMoniker": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmEasy.cs",
+              "RelativeDocumentMoniker": "DoMin\\frmEasy.cs",
+              "ToolTip": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmEasy.cs",
+              "RelativeToolTip": "DoMin\\frmEasy.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:06:30.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmMain.cs",
+              "RelativeDocumentMoniker": "DoMin\\frmMain.cs",
+              "ToolTip": "D:\\PTCD_FPT\\PMA101\\DoMin\\DoMin\\frmMain.cs*",
+              "RelativeToolTip": "DoMin\\frmMain.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:59:30.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
